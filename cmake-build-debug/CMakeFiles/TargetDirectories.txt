@@ -1,0 +1,6 @@
+/Users/ethanshafranmoltz/Documents/NYU/Bridge 2021/Homework/HW13/doodlebug_finished/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ethanshafranmoltz/Documents/NYU/Bridge 2021/Homework/HW13/doodlebug_finished/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ethanshafranmoltz/Documents/NYU/Bridge 2021/Homework/HW13/doodlebug_finished/cmake-build-debug/CMakeFiles/annie.dir
+/Users/ethanshafranmoltz/Documents/NYU/Bridge 2021/Homework/HW13/doodlebug_finished/cmake-build-debug/CMakeFiles/example2.dir
+/Users/ethanshafranmoltz/Documents/NYU/Bridge 2021/Homework/HW13/doodlebug_finished/cmake-build-debug/CMakeFiles/example3.dir
+/Users/ethanshafranmoltz/Documents/NYU/Bridge 2021/Homework/HW13/doodlebug_finished/cmake-build-debug/CMakeFiles/example1.dir
