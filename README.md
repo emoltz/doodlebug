@@ -1,3 +1,3 @@
 # doodlebug
-Doodlebug Sim, built spring 2021
-NYU Bridge
+- Doodlebug Sim, built spring 2021
+- NYU Bridge
